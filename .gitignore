@@ -9,6 +9,7 @@ lcov.info
 *.pid
 *.gz
 *.sw?
+*.env
 
 pids
 logs

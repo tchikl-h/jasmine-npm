@@ -15,7 +15,8 @@
     "url": "https://github.com/jasmine/jasmine-npm"
   },
   "scripts": {
-    "test": "./node_modules/.bin/grunt && ./bin/jasmine.js"
+    "test": "./node_modules/.bin/grunt && ./bin/jasmine.js",
+    "dotenvInit": "./dotenvInit.sh"
   },
   "dependencies": {
     "glob": "^7.1.4",
